@@ -8,7 +8,7 @@ Shadow Mario was built with Java, using a graphical game engine, [Bagel](https:/
 Java to be installed on the PC that runs this program (to verify, open the terminal and type "java -version").
 
 # How to play 
-1. [Download](https://github.com/taiyo-s/Shadow-Mario/main/ShadowMarioGame.zip) the "ShadowMarioGame.zip".
+1. [Download](https://github.com/taiyo-s/Shadow-Mario/blob/main/ShadowMarioGame.zip) the "ShadowMarioGame.zip".
 2. Extract into your computer.
 3. Make sure you have Java installed.
 4. Now, open your terminal in the "ShadowMarioGame" folder directory and type the following command to run!

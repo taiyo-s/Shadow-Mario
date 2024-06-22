@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4c97445-c7f6-4015-ab27-11deb9f33dac" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Coin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DoubleScore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DoubleScore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EndFlag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EndFlag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Enemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Enemy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EnemyBoss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EnemyBoss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fireball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fireball.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FlyingPlatform.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FlyingPlatform.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HasHealth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HasHealth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InflictsDamage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InflictsDamage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InteractsWithPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InteractsWithPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InvinciblePower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InvinciblePower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MovesIndependentFromPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MovesIndependentFromPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Platform.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Platform.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ScreenMessages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ScreenMessages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ShadowMario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShadowMario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ShootsFireballs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShootsFireballs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Timer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Timer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/World.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/World.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/World1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/World1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/World2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/World2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/World3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/World3.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2enrOT9cJCohI9sjQMoBLjgKPXr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Apple.executor": "Run",
+    "Application.Fruit.executor": "Run",
+    "Application.ShadowMario.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/taiyosiew-adachi/Library/CloudStorage/OneDrive-TheUniversityofMelbourne/2024 Sem 1/Object Oriented Software Development/tsiewadachi-project-2/tsiewadachi-project-2",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ShadowMario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ShadowMario" />
+      <module name="bagel" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ShadowMario" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.22-corretto-11.0.22-4caba194b151-868cef46" />
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4c97445-c7f6-4015-ab27-11deb9f33dac" name="Changes" comment="" />
+      <created>1712551150966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712551150966</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -132,7 +132,7 @@ public class Player extends Entity implements ShootsFireballs, HasHealth{
      * Creates and returns a new Fireball at the position of Player
      */
     public Fireball shootFireball() {
-        return new Fireball(getX(), getY(), this, facingRight);
+        return new Fireball(getX(), getY(), this, facingRight, initialY);
     }
 
     /**

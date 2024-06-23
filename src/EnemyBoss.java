@@ -70,7 +70,7 @@ public class EnemyBoss extends Entity implements ShootsFireballs, HasHealth, Mov
      * @return The newly created Fireball object
      */
     public Fireball shootFireball() {
-        return new Fireball(getX(), getY(), this, facingRight);
+        return new Fireball(getX(), getY(), this, facingRight, getY());
     }
 
     /**

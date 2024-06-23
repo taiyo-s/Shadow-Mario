@@ -81,7 +81,7 @@ public class ShadowMario extends AbstractGame {
             }
             /* Player shoots fireball if in range of shooting the enemy boss */
             if (input.wasPressed(Keys.S)) {
-                if (level == Level.THREE && world.getEnemyBoss().inFireballRange(player)) {
+                if (level == Level.THREE){ //&& world.getEnemyBoss().inFireballRange(player)) {
                     world.newFireball(player.shootFireball());
                 }
             }

@@ -8,6 +8,7 @@ import java.util.Properties;
 public class Platform extends Entity{
     private static final Properties game_props = IOUtils.readPropertiesFile("res/app.properties");
     private final Image PLATFORM;
+    private final double PLATFORM_EDGE = 3000;
 
     /**
      * Constructor for platform, reads from property file and assigns values
@@ -26,11 +27,11 @@ public class Platform extends Entity{
      */
     @Override
     public void draw() {
-        if (getX() < 3000) {
+        if (getX() < PLATFORM_EDGE) {
             super.draw();
         }
         else {
-            PLATFORM.draw(3000, getY());
+            PLATFORM.draw(PLATFORM_EDGE, getY());
         }
     }
 

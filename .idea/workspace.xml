@@ -1,13 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="bagel:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4c97445-c7f6-4015-ab27-11deb9f33dac" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EnemyBoss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EnemyBoss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fireball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fireball.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Platform.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Platform.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ShadowMario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShadowMario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EnemyBoss.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EnemyBoss.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Fireball.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Fireball.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Platform.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Platform.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ShadowMario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ShadowMario.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

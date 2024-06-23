@@ -14,6 +14,8 @@ public class Fireball extends Entity implements InflictsDamage, MovesIndependent
     private final double WINDOW_BOUNDARY;
     private final ShootsFireballs shotBy;
     private int direction = 1;
+    private double ySpeed = 5;
+    private double groundY;
 
     /**
      * Constructs a new Fireball object with the specified coordinates, shot by, and direction
@@ -22,7 +24,7 @@ public class Fireball extends Entity implements InflictsDamage, MovesIndependent
      * @param shotBy The entity that shot the fireball
      * @param shotToTheRight Indicates whether the fireball is shot to the right
      */
-    public Fireball(double x, double y, ShootsFireballs shotBy, boolean shotToTheRight) {
+    public Fireball(double x, double y, ShootsFireballs shotBy, boolean shotToTheRight, double groundY) {
         super(x, y,
                 /* Assuming the fireball moves according to player lateral movement at same speed as an enemy */
                 Double.parseDouble(game_props.getProperty("gameObjects.enemy.speed")),
@@ -35,6 +37,7 @@ public class Fireball extends Entity implements InflictsDamage, MovesIndependent
         if (!shotToTheRight) {
             direction = -1;
         }
+        this.groundY = groundY;
     }
 
     /**
@@ -78,6 +81,13 @@ public class Fireball extends Entity implements InflictsDamage, MovesIndependent
     @Override
     public void updatePos() {
         setX(getX() + direction * trajectorySpeed);
+        if (getY() - getRadius() >= groundY){
+            ySpeed *= -1;
+        }
+        else {
+            ySpeed += 1.0;
+        }
+        setY(getY() + ySpeed);
     }
 
     /**

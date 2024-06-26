@@ -1,5 +1,5 @@
 # Shadow-Mario
-Simplified Mario Game with 3 distinct levels, varying in complexity
+Simplified Mario Game with 3 distinct levels, varying in complexity. Developed for SWEN20003 assignment and slightly modified afterwards for personal preferences
 
 # Build
 Shadow Mario was built with Java, using a graphical game engine, [Bagel](https://github.com/eleanor-em/bagel). 
